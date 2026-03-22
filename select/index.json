@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+  "base_artist": "Shashwat Sachdev, Khan Saab, Irshad Kamil, & Nusrat Fateh Ali Khan",
+  "createdAt": "2026-03-22T16:21:52.815679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Khan Saab,",
+      "has_synced": true,
+      "path": "select/01_Jaan_Se_Guzarte_Hain_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev,_Khan_Saab,.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Khan Saab, & Nusrat Fateh Ali Khan",
+      "has_synced": true,
+      "path": "select/02_Jaan_Se_Guzarte_Hain_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev,_Khan_Saab,_&_Nusrat_Fateh_Ali_Khan.lrc"
+    }
+  ]
+}
